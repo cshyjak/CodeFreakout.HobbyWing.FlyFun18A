@@ -1,0 +1,6 @@
+CodeFreakout.HobbyWing.FlyFun18A
+
+Driver for the HobbyWing Fly Fun 18A speed controller.  Currently in development.
+
+NOTE:
+When adding a reference to the project when using the nuget package it seems that Nuget is choosing the wrong dll to reference.  Please manually remove the reference and add a reference to the dll located in the netmf42 folder.

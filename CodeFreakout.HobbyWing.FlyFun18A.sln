@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFreakout.HobbyWing.FlyFun18A", "src\CodeFreakout.HobbyWing.FlyFun18A\CodeFreakout.HobbyWing.FlyFun18A.csproj", "{520FD774-06EB-472D-83CE-2A3F663ECFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520FD774-06EB-472D-83CE-2A3F663ECFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520FD774-06EB-472D-83CE-2A3F663ECFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520FD774-06EB-472D-83CE-2A3F663ECFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520FD774-06EB-472D-83CE-2A3F663ECFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
